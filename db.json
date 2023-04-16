@@ -1,7 +1,7 @@
 {
   "projects": [
     {
-      "name": "teste",
+      "name": "Meu projeto 1",
       "budget": "555555",
       "category": {
         "id": "1",
@@ -12,7 +12,7 @@
       "id": 1
     },
     {
-      "name": "teste2",
+      "name": "Meu projeto 2",
       "budget": "66666",
       "category": {
         "id": "3",
@@ -34,7 +34,7 @@
       "id": 3
     },
     {
-      "name": "projeto 4",
+      "name": "Meu projeto 4",
       "budget": "3000",
       "category": {
         "id": "3",
@@ -45,7 +45,7 @@
       "id": 4
     },
     {
-      "name": "gvyugv",
+      "name": "Meu projeto 5",
       "budget": "78565476574",
       "category": {
         "id": "2",
@@ -56,7 +56,7 @@
       "id": 5
     },
     {
-      "name": "fgdfd",
+      "name": "Meu projeto 6",
       "budget": "3253464576",
       "category": {
         "id": "2",

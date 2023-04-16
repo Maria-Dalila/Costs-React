@@ -1,0 +1,14 @@
+{
+    "emmet.triggerExpansionOnTab": true,
+    "mithrilEmmet.outputDefaultTagName": true,
+    "emmet.showAbbreviationSuggestions": false,
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.useInlineCompletions": false,
+    "emmet.optimizeStylesheetParsing": false,
+    "emmet.showExpandedAbbreviation": "inMarkupAndStylesheetFilesOnly",
+    "editor.snippetSuggestions": "top",
+    "emmet.includeLanguages": {
+        "razor": "html",
+        "plaintext": "pug"
+    }
+}
