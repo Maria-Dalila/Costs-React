@@ -43,28 +43,6 @@
       "costs": 0,
       "services": [],
       "id": 4
-    },
-    {
-      "name": "Meu projeto 5",
-      "budget": "78565476574",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "costs": 0,
-      "services": [],
-      "id": 5
-    },
-    {
-      "name": "Meu projeto 6",
-      "budget": "3253464576",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "costs": 0,
-      "services": [],
-      "id": 6
     }
   ],
   "categories": [

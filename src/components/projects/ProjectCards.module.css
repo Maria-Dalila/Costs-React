@@ -3,7 +3,7 @@
     border: 1px solid #7a7a7a;
     border-radius: 5px;
     width: 24%;
-    margin: 0.5;
+    margin: 0.5%;
 }
 
 .project_card h4 {
@@ -19,7 +19,7 @@
     margin-bottom: 1em;
 }
 
-.projec_card p span{
+.project_card p span{
     font-weight: bold;
 }
 
@@ -50,20 +50,21 @@
 }
 
 .category_text .planejamento {
-    background-color: #FBE7C6;
+    background-color: #f0c580;
 }
 
 .project_card_actions {
     margin-top: 1.2em;
     display: flex;
     align-items: center;
+    
 }
 
 .project_card_actions a, 
 .project_card_actions button{
     text-decoration: none;
     border: none;
-    background-color: #fff;
+    background-color: #ffffff;
     color: #222;
     font-size: .9em;
     padding: .6em 1em;
