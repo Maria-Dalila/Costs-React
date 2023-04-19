@@ -1,37 +1,75 @@
 {
   "projects": [
     {
-      "name": "teste de atualização",
+      "name": "Projeto 1",
       "budget": "55000",
       "category": {
         "id": "4",
         "name": "Planejamento"
       },
-      "costs": 0,
-      "services": [],
+      "costs": 200,
+      "services": [
+        {
+          "name": "Meu serviço 1",
+          "costs": "100",
+          "description": "lorem ipsum",
+          "id": "2439ba9f-26b0-419c-8a31-3d2d309da3ca"
+        },
+        {
+          "name": "Meu serviço 2",
+          "costs": "100",
+          "description": "lorem ipsum",
+          "id": "f6e0ef8b-7f38-4235-8bfe-f7e80ee4893f"
+        }
+      ],
       "id": 1
     },
     {
       "name": "Meu projeto 2",
-      "budget": "66666",
+      "budget": "85000",
       "category": {
         "id": "3",
         "name": "Design"
       },
-      "costs": 0,
-      "services": [],
+      "costs": 649,
+      "services": [
+        {
+          "name": "serviço 1",
+          "costs": "649",
+          "description": "lorem ipsum",
+          "id": "35a5b727-b50e-492f-879f-1eea4f407da1"
+        }
+      ],
       "id": 2
     },
     {
       "name": "teste 2",
-      "budget": "60000",
+      "budget": "32000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "costs": 10000,
+      "services": [
+        {
+          "name": "contratar dev java",
+          "costs": "10000",
+          "description": "java dev",
+          "id": "8dc9096b-5a69-4fc6-88b0-c6b2f7041ca2"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "Projeto 5",
+      "budget": "23000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
       },
       "costs": 0,
       "services": [],
-      "id": 3
+      "id": 4
     }
   ],
   "categories": [
